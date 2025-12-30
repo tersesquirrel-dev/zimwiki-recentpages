@@ -1,5 +1,5 @@
 # recentpages
-A Zim plugin, that schows you the recent visited pages in a popup window - similar to the pathbar.
+A Zim plugin, that shows you the recent visited pages in a popup window - similar to the pathbar.
 
 !["Screenshot of Recent Pages"](./screenshot.png)
 
